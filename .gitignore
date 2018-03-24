@@ -1,6 +1,7 @@
 *.pyc
 *~
 __pycache__
+local_settings.py
 .vscode/*
 myvenv
 db.sqlite3
